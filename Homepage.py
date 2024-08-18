@@ -16,7 +16,7 @@ st.markdown(
 )
 
 # Image
-st.image(r"C:/Users/300ya/OneDrive/Desktop/Project/PrepMaster_Project/PrepMaster/PrepMaster/preppic.svg", caption="Interview Preparation", use_column_width=True)
+st.image("preppic.svg", caption="Interview Preparation", use_column_width=True)
 
 # Additional Information
 

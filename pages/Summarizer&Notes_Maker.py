@@ -1,4 +1,8 @@
 import streamlit as st
+import nltk
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('omw-1.4')
 from PyPDF2 import PdfReader
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer

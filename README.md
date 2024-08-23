@@ -40,10 +40,8 @@ OPENAI_API_KEY=your_openai_api_key
 To start the application, run:
 
 ```bash
-streamlit run app.py
+streamlit run Homepage.py
 ```
-
-.
 
 ## Usage
 
